@@ -1,4 +1,4 @@
-# Student-Academic-Behavior-Prediction\
+# Student-Academic-Behavior-Prediction
 
 ## 📊 Big Data-Driven Attention Models
 
